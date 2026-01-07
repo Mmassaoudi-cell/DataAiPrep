@@ -417,10 +417,10 @@ If you use DataAiPrep in your research, please cite:
 
 ```bibtex
 @software{dataiprep2024,
-  author = {Massaoudi, Mohamed},
-  title = {DataAiPrep: Advanced ML Data Quality Assessment Platform},
-  year = {2024},
-  publisher = {GitHub},
+  author = {Massaoudi, Mohamed, Maymouna Ez Eddin},
+  title = {DataAiPrep: A Comprehensive Machine Learning Data Quality Assessment Tool for Training Dataset Optimization},
+  year = {2026},
+  publisher = {SofwareX, Under Review},
   url = {https://github.com/massaoudi-lab/dataiprep}
 }
 ```
@@ -444,4 +444,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   Made with ❤️ by the DataAiPrep Team
 </p>
+
 

@@ -416,12 +416,16 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 If you use DataAiPrep in your research, please cite:
 
 ```bibtex
-@software{dataiprep2024,
-  author = {Massaoudi, Mohamed, Maymouna Ez Eddin},
-  title = {DataAiPrep: A Comprehensive Machine Learning Data Quality Assessment Tool for Training Dataset Optimization},
-  year = {2026},
-  publisher = {SofwareX, Under Review},
-  url = {https://github.com/massaoudi-lab/dataiprep}
+@article{MASSAOUDI2026102662,
+title = {DataAiPrep: A comprehensive machine learning data quality assessment tool for training dataset optimization},
+journal = {SoftwareX},
+volume = {34},
+pages = {102662},
+year = {2026},
+issn = {2352-7110},
+doi = {https://doi.org/10.1016/j.softx.2026.102662},
+url = {https://www.sciencedirect.com/science/article/pii/S235271102600155X},
+author = {Mohamed Massaoudi and Maymouna {Ez Eddin}},
 }
 ```
 
